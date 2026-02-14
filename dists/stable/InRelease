@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: SimpleOS
+Label: SimpleOS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: SimpleOS APT Repository
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEHO69YVzeDTBQtqxiNbPPxUjLbXAFAmmQr+gACgkQNbPPxUjL
+bXDKYA//cXI2pbnVcGa05MEg1avDxsrfpWO3wbsG8QYVALvD8LW0CxVGuEINfkYB
+PqCPshGrSdbPBr7i3WARD+4kPWC2ert4DRjYy85rhTDucVmB/LSyKL5oUiELvFY/
+tsW2GbfZzHro/dsPJqajTTCRPiF+lDJmrZd4pmJQqBs9JwKiWX/JldsyxapqeSH6
+Zgn0rcjyaqH6LKEvGbIKmuLH2GmGrPTwCRlYRw3PmfEuOKwdFeOnYWGdYmqM6Y7L
+uAr41wrwnsaKgwiy+RhA7+SaKGxiXF2uuwvwYoMagi4oEVf900M3RZQQJ6EKw2jP
+/Cg/Ix3FzPgHi6W/z/haIvY2/Qj/jIFNchWgnbB5nQ4sfY5V34nS0FsQIWzHB+Rt
+aYnXBOA122CLdVQ8QYiMWaRGrQmPLxgqUmK6mPtUF8ASJo4bhL8GFLCW59maooWU
+aRV0wN4cH0aOEesNdKvSOJykZAuGJAtZTRu9NZu4v/+1pLxZ3lPmBWgUyKzqs5rE
+B7OXapCViJ5lJQJBC7pQcK1i4o0BbUWcLOecHBU7SFOsaIjes7BpFMM46re9pYMv
+TDQ5ROVqCDSh3SXE1rSz9b2WVryoMT7mldrdKO1dTRlO4Z40vj7Rzvk5TuEHbgwt
+MiiArpgazBN46JDcZFpzVuOCVq262ANqHe03h366xnCNebwfsa0=
+=LlRh
+-----END PGP SIGNATURE-----

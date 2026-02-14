@@ -1,1 +1,7 @@
-
+Origin: SimpleOS
+Label: SimpleOS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: SimpleOS APT Repository
