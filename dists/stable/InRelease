@@ -1,26 +1,42 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: SimpleOS
-Label: SimpleOS
-Suite: stable
-Codename: stable
 Architectures: amd64
+Codename: stable
 Components: main
-Description: SimpleOS APT Repository
+Date: Sun, 15 Feb 2026 12:53:02 +0000
+Label: SimpleOS
+Origin: SimpleOS
+Suite: stable
+MD5Sum:
+ a9b58b8196a436d06019a1e63fe9b155              140 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 394906f2b8acfb83941a0c805334f137               29 main/binary-amd64/Packages.gz
+SHA1:
+ 8f7bcce3d4aa6fbc2ca4bf38c4873d32bc3888dc              140 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 5842718d1bb68fd5f01a59dfe3d7a4be87a7dd78               29 main/binary-amd64/Packages.gz
+SHA256:
+ 0546b2eebe5ea499e6bc138abd8dd3cc134b712d3ecd7647329458823edf9af5              140 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 21446c4e31f37d29fdb0416b0ce11038eaef743e7ebb3a5f48953c2376d13e0e               29 main/binary-amd64/Packages.gz
+SHA512:
+ d99d2d793d174f22ac6f82b6cd7719edd59fda42af46e8bf7c9e8ae67cefa3ba99ae01f1a9b2f5cf55b487f6347dc8d7bd03c4dd42b84b35eb66d34d96b67d00              140 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 8309ace355d4d5ed75a294d17d829b32c7ab47ef70a13aa6ddd520f7bcad2cba0c489e3eec8808d4e513989701ebb53171dbf676f3b3b4bb70d42294062fb917               29 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEHO69YVzeDTBQtqxiNbPPxUjLbXAFAmmQr+gACgkQNbPPxUjL
-bXDKYA//cXI2pbnVcGa05MEg1avDxsrfpWO3wbsG8QYVALvD8LW0CxVGuEINfkYB
-PqCPshGrSdbPBr7i3WARD+4kPWC2ert4DRjYy85rhTDucVmB/LSyKL5oUiELvFY/
-tsW2GbfZzHro/dsPJqajTTCRPiF+lDJmrZd4pmJQqBs9JwKiWX/JldsyxapqeSH6
-Zgn0rcjyaqH6LKEvGbIKmuLH2GmGrPTwCRlYRw3PmfEuOKwdFeOnYWGdYmqM6Y7L
-uAr41wrwnsaKgwiy+RhA7+SaKGxiXF2uuwvwYoMagi4oEVf900M3RZQQJ6EKw2jP
-/Cg/Ix3FzPgHi6W/z/haIvY2/Qj/jIFNchWgnbB5nQ4sfY5V34nS0FsQIWzHB+Rt
-aYnXBOA122CLdVQ8QYiMWaRGrQmPLxgqUmK6mPtUF8ASJo4bhL8GFLCW59maooWU
-aRV0wN4cH0aOEesNdKvSOJykZAuGJAtZTRu9NZu4v/+1pLxZ3lPmBWgUyKzqs5rE
-B7OXapCViJ5lJQJBC7pQcK1i4o0BbUWcLOecHBU7SFOsaIjes7BpFMM46re9pYMv
-TDQ5ROVqCDSh3SXE1rSz9b2WVryoMT7mldrdKO1dTRlO4Z40vj7Rzvk5TuEHbgwt
-MiiArpgazBN46JDcZFpzVuOCVq262ANqHe03h366xnCNebwfsa0=
-=LlRh
+iQIzBAEBCgAdFiEEHO69YVzeDTBQtqxiNbPPxUjLbXAFAmmRwbkACgkQNbPPxUjL
+bXDJ9Q/9GjWhpoe5kpxPRuuCPDHfpD+rEGovenPnJxntNVIVbrmZK96V0jCG7IZv
+bX30Rf+sy47G2BtZ3TAtsO6PWWLx/rTVsn/hdVE5pTe2maVfdUmqtFVHZG7k+IQ/
+YNtaeBm2UHKlg+TS6leQaFNSROM1mrel3WGEruwKncLesyZ6bhLpub6bjn9edVgm
+6p1bf/Sdo6Lz7c2XY/fJw9k6peWVolOJjvhWklr+ijBqbC0pZxLehyTKqK0U98TG
+WWpM4ThemaSIzW8W34YbwPqOMGia7BDLBuZIZgf7y1SN2HQY2XDAXxvC3bOf5NvM
+Jm6X4pGSRAvpKyrZLO+j2V+NwgPEI1mKCeiW1Ew8rtipoiGryt+mKYRVqqN9hoot
+EccClEJ4ypLt2nkwT9KMpmP2WkWTKs/WHiSpAR76Bz1spQdWOMfW+AxpJvv+h0Xw
+1c9qI6rZ7wodtKYpqJmmPPG0VgnuFFkCzD7FEh07rvg/PWQi4m9cLoH3Fijys7Ze
+fcxCRhkuSImutHWTaW7RAiHHyLNhGnFHr4E0zLeVwLalhwYezNCf121l72JD8MZH
+YRhmAgw9eOfmnvieLLYb8W9qE8A99td4o0K1wUYaMOY+NaxNLwIpEPzf5GK6yjDv
+rXS7DS04tkFLw6b8JDGM0LIem2c9exrViQwl9EAGoNaAFfC/rwI=
+=7c1B
 -----END PGP SIGNATURE-----
