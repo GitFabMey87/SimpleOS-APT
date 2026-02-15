@@ -1,3 +1,16 @@
+Package: SimpleOS-Backgrounds
+Version: 0.1
+Architecture: amd64
+Maintainer: SimpleOS <contact@simpleos.local>
+Filename: ./SimpleOS-Backgrounds_0.1_amd64.deb
+Size: 9190078
+MD5sum: 9f6daa72c1af79f919e2a63bf16ac71a
+SHA1: 7143613f05023eead28c1e5838ae1bcb72d4288f
+SHA256: 5e2a38f49384a23e945e59ca215d650c5c3e850b2a67fe21c45487a24c626c56
+Section: utils
+Priority: optional
+Description: Fonds ecrans pour SimpleOS.
+
 Package: SimpleOs-Backgrounds
 Version: 0.1
 Architecture: amd64
